@@ -1,4 +1,4 @@
-/*limpar formatação padrão*/
+/*Limpar formatação padrão*/
 *{
 	margin:0;
 	padding:0;
@@ -44,7 +44,7 @@ h2{
 	color: #b9c941;
 }
 
-/*--------- /*formatação do menu/*----------*/
+/*--------- /*Formatação do menu/*----------*/
 
 a{
 	text-decoration: none;
@@ -61,11 +61,13 @@ a:visited {
 	color: #838383;
 
 }
+
 /*links hover*/
 a:hover {
 	background: #b9c941;
 	color: #fff;
 }
+
 /*links active*/
 a:active {
 	color: #535353;
